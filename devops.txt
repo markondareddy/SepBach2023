@@ -1,4 +1,8 @@
 this is devops configuration settings
 
 
+<<<<<<< Updated upstream
 feature development code2
+=======
+feature development code5
+>>>>>>> Stashed changes
