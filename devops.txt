@@ -6,3 +6,6 @@ feature development code2
 =======
 feature development code5
 >>>>>>> Stashed changes
+
+
+updated file
